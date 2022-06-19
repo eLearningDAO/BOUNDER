@@ -1,7 +1,7 @@
 # BOUNDER
-_Bet On UNDERstanding_
+Bet On UNDERstanding
 
-### Problems we are trying to address  
+### Problems we want to address  
 - Engaging in e-learning content is hard.
 - Detecting user knowledge is even harder.
 - "Learn to earn" isn't working yet.
