@@ -1,4 +1,4 @@
-[![BOUNDER](https://raw.githubusercontent.com/e-Learning-DAO/BOUNDER/main/Bounder-logo.png)](https://github.com/e-Learning-DAO)
+[![BOUNDER](https://raw.githubusercontent.com/e-Learning-DAO/BOUNDER/main/Bounder-logo.png)](https://github.com/eLearningDAO)
 
 Bet On UNDERstanding
 #
@@ -30,6 +30,6 @@ Here, the confidence of the user is challenged by the betting process for each a
 
 BOUNDER is not only fun and economically sustainable for stakeholders involved, but it is also extremely relevant for teaching purposes.
 
-BOUNDER is a fundamental module of a bigger decentralised e-Learning platform we are building through our dedicated [e-Learning DAO](https://github.com/e-Learning-DAO)
+BOUNDER is a fundamental module of a bigger decentralised e-Learning platform we are building through our dedicated [e-Learning DAO](https://github.com/eLearningDAO)
 
-[![BOUNDER](https://raw.githubusercontent.com/e-Learning-DAO/BOUNDER/main/BOUNDER-usecase.png)](https://github.com/e-Learning-DAO)
+[![BOUNDER](https://raw.githubusercontent.com/e-Learning-DAO/BOUNDER/main/BOUNDER-usecase.png)](https://github.com/eLearningDAO)
