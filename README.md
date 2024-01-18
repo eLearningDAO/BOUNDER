@@ -1,14 +1,16 @@
 [![BOUNDER](https://raw.githubusercontent.com/e-Learning-DAO/BOUNDER/main/Bounder-logo.png)](https://github.com/eLearningDAO)
 
 Bet On UNDERstanding
+
+Public Patent [US20230401973A](https://github.com/eLearningDAO/BOUNDER/blob/main/US20230401973A.pdf)
 #
 
 ### Problems we want to address  
-- Engaging in e-learning content is hard.
-- Detecting user knowledge is even harder.
-- "Learn to earn" isn't working yet.
-- Content creators are poorly paid.
-- Crypto is scary or boring for non-experts.
+- Engaging in e-learning content is hard
+- Detecting user knowledge is even harder
+- "Learn to earn" isn't working yet
+- Content creators are poorly paid
+- Crypto is scary or boring for non-experts
 
 ### Our solution 
 - Betting on quizzes
@@ -18,7 +20,7 @@ Bet On UNDERstanding
 
 However, the most important goal we can achieve is from the perspective of e-learning. Currently, there is no method for detecting accurately the user knowledge using multiple choices.
 
-MCQ (multiple choices question) is a powerful tool when you want to automatically "filter" for a certain degree of student knowledge (to be focused only on who passed a certain threshold). However, for a proper evaluation, an "essay question" is still needed, which is impossible to automate (yes, AI is not yet that powerful).
+MCQ (multiple-choice question) is a powerful tool when you want to automatically "filter" for a certain degree of student knowledge (to be focused only on who passed a certain threshold). However, for a proper evaluation, an "essay question" is still needed, which is impossible to automate (yes, AI is not yet that powerful).
 
 So, how can we more accurately evaluate still using an MCQ approach?
 
